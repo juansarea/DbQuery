@@ -1,0 +1,239 @@
+{
+	"folders": {},
+	"connections": {
+		"mysql8-185f3c092bf-32f5f94860206a1d": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "MySQL php 5",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"auth-model": "native"
+			}
+		},
+		"mysql8-18b122ba1d1-7433985010a8232f": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "MySQL php 7",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "4406",
+				"url": "jdbc:mysql://localhost:4406/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"auth-model": "native"
+			},
+			"custom-properties": {
+				"SQLEditor.outputPanel.autoShow": "false"
+			}
+		},
+		"microsoft-18bef6f3cc0-1333af7938715de": {
+			"provider": "sqlserver",
+			"driver": "microsoft",
+			"name": "WISE_STAGING (252)",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.89.252",
+				"port": "1433",
+				"database": "WISE_STAGING",
+				"url": "jdbc:sqlserver://;serverName\u003d10.0.89.252;databaseName\u003dWISE_STAGING",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"provider-properties": {
+					"@dbeaver-show-all-schemas@": "false",
+					"sslTrustServerCertificate": "false"
+				},
+				"auth-model": "sqlserver_database"
+			}
+		},
+		"microsoft-18bef706abf-7be84eb51df43ffa": {
+			"provider": "sqlserver",
+			"driver": "microsoft",
+			"name": "WISE_STAGING(217)",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.89.217",
+				"port": "1433",
+				"database": "WISE_STAGING",
+				"url": "jdbc:sqlserver://;serverName\u003d10.0.89.217;databaseName\u003dWISE_STAGING",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"provider-properties": {
+					"@dbeaver-show-all-schemas@": "false",
+					"sslTrustServerCertificate": "false"
+				},
+				"auth-model": "sqlserver_database"
+			}
+		},
+		"microsoft-18bef711b02-3d4bedd6d02139d8": {
+			"provider": "sqlserver",
+			"driver": "microsoft",
+			"name": "WISE_STAGING(142)",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.89.142",
+				"port": "1433",
+				"database": "WISE_STAGING",
+				"url": "jdbc:sqlserver://;serverName\u003d10.0.89.142;databaseName\u003dWISE_STAGING",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"provider-properties": {
+					"@dbeaver-show-all-schemas@": "false",
+					"sslTrustServerCertificate": "false"
+				},
+				"auth-model": "sqlserver_database"
+			}
+		},
+		"microsoft-18c28ffc9f9-6617fd10c7326e62": {
+			"provider": "sqlserver",
+			"driver": "microsoft",
+			"name": "MSS(147)",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.89.147",
+				"port": "1433",
+				"database": "master",
+				"url": "jdbc:sqlserver://;serverName\u003d10.0.89.147;databaseName\u003dmaster",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"provider-properties": {
+					"@dbeaver-show-all-schemas@": "false",
+					"sslTrustServerCertificate": "false"
+				},
+				"auth-model": "sqlserver_database"
+			}
+		},
+		"mysql8-18cb80f7db7-3d6562235b1c1da": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "u456114713_laravel_db",
+			"save-password": true,
+			"configuration": {
+				"host": "srv1153.hstgr.io",
+				"port": "3306",
+				"database": "u456114713_laravel_db",
+				"url": "jdbc:mysql://srv1153.hstgr.io:3306/u456114713_laravel_db",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"auth-model": "native"
+			}
+		},
+		"mysql8-18cb9ec4e1f-48359f46fb6ee90e": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "10.1.49.224 (CRM)",
+			"save-password": true,
+			"configuration": {
+				"host": "10.1.49.224",
+				"port": "3306",
+				"url": "jdbc:mysql://10.1.49.224:3306/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"auth-model": "native"
+			}
+		},
+		"mysql8-18d5d51a287-5152a88fbdff531f": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "10.1.49.250 (CRM) 2",
+			"save-password": true,
+			"configuration": {
+				"host": "10.1.49.250",
+				"port": "3306",
+				"url": "jdbc:mysql://10.1.49.250:3306/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"auth-model": "native"
+			}
+		},
+		"microsoft-18d5d52d421-5dfe1e8fe7e95850": {
+			"provider": "sqlserver",
+			"driver": "microsoft",
+			"name": "MSS(219) 2 ",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.89.219",
+				"port": "1433",
+				"database": "master",
+				"url": "jdbc:sqlserver://;serverName\u003d10.0.89.219;databaseName\u003dmaster",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": false,
+				"provider-properties": {
+					"@dbeaver-show-all-schemas@": "false",
+					"sslTrustServerCertificate": "false"
+				},
+				"auth-model": "sqlserver_database"
+			}
+		},
+		"mysql8-191268432e4-65d17d89a5488cfc": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "10.0.89.116",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.89.116",
+				"port": "3306",
+				"url": "jdbc:mysql://10.0.89.116:3306/",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		},
+		"mysql8-1912a9ac79c-17de178793b6fb49": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "DB IDE DASHB DEV 67.130",
+			"save-password": true,
+			"configuration": {
+				"host": "10.0.67.130",
+				"port": "3306",
+				"database": "dbide",
+				"url": "jdbc:mysql://10.0.67.130:3306/dbide",
+				"configurationType": "MANUAL",
+				"home": "mysql_client",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"virtual-models": {"mysql8-185f3c092bf-32f5f94860206a1d":{"listrik_pascabayar_db":{":tb_mainmenuweb":{"constraints":{"VIRTUAL_PK":{"type":"vpk","attributes":["id_mainmenu"]}}},":tb_submenuweb":{"constraints":{"VIRTUAL_PK":{"type":"vpk","attributes":["id_subemu"]}}}}},"mysql8-18b122ba1d1-7433985010a8232f":{"laravel_db":{"@properties":{"erd.diagram.state":{"serialized":"\u003cdiagram version\u003d\"1\" name\u003d\"empty\" time\u003d\"202312131229\"\u003e\u003centities\u003e\u003cdata-source id\u003d\"mysql8-18b122ba1d1-7433985010a8232f\"\u003e\u003centity id\u003d\"1\" name\u003d\"debug\" fq-name\u003d\"laravel_db.debug\" order\u003d\"0\" x\u003d\"380\" y\u003d\"1200\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"2\" name\u003d\"failed_jobs\" fq-name\u003d\"laravel_db.failed_jobs\" order\u003d\"1\" x\u003d\"1920\" y\u003d\"1140\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"3\" name\u003d\"migrations\" fq-name\u003d\"laravel_db.migrations\" order\u003d\"2\" x\u003d\"1000\" y\u003d\"1180\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"4\" name\u003d\"password_reset_tokens\" fq-name\u003d\"laravel_db.password_reset_tokens\" order\u003d\"3\" x\u003d\"1300\" y\u003d\"1180\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"5\" name\u003d\"personal_access_tokens\" fq-name\u003d\"laravel_db.personal_access_tokens\" order\u003d\"4\" x\u003d\"40\" y\u003d\"1600\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"6\" name\u003d\"tbl_m_customers\" fq-name\u003d\"laravel_db.tbl_m_customers\" order\u003d\"5\" border-width\u003d\"3\" x\u003d\"380\" y\u003d\"520\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"7\" name\u003d\"tbl_m_installation_person\" fq-name\u003d\"laravel_db.tbl_m_installation_person\" order\u003d\"6\" x\u003d\"380\" y\u003d\"980\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"8\" name\u003d\"tbl_m_menus\" fq-name\u003d\"laravel_db.tbl_m_menus\" order\u003d\"7\" x\u003d\"380\" y\u003d\"40\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"9\" name\u003d\"tbl_m_products\" fq-name\u003d\"laravel_db.tbl_m_products\" order\u003d\"8\" x\u003d\"1000\" y\u003d\"720\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"10\" name\u003d\"tbl_m_roles\" fq-name\u003d\"laravel_db.tbl_m_roles\" order\u003d\"9\" x\u003d\"380\" y\u003d\"320\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"11\" name\u003d\"tbl_m_status_progress\" fq-name\u003d\"laravel_db.tbl_m_status_progress\" order\u003d\"10\" x\u003d\"1000\" y\u003d\"980\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"12\" name\u003d\"tbl_m_type_id\" fq-name\u003d\"laravel_db.tbl_m_type_id\" order\u003d\"11\" x\u003d\"680\" y\u003d\"660\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"13\" name\u003d\"tbl_t_app\" fq-name\u003d\"laravel_db.tbl_t_app\" order\u003d\"12\" x\u003d\"680\" y\u003d\"840\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"14\" name\u003d\"tbl_t_progress_stat\" fq-name\u003d\"laravel_db.tbl_t_progress_stat\" order\u003d\"13\" x\u003d\"1640\" y\u003d\"1180\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"15\" name\u003d\"tbl_t_role_menu\" fq-name\u003d\"laravel_db.tbl_t_role_menu\" order\u003d\"14\" x\u003d\"40\" y\u003d\"180\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"16\" name\u003d\"users\" fq-name\u003d\"laravel_db.users\" order\u003d\"15\" x\u003d\"40\" y\u003d\"400\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"17\" name\u003d\"v_students\" fq-name\u003d\"laravel_db.v_students\" order\u003d\"16\" x\u003d\"40\" y\u003d\"1220\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"18\" name\u003d\"vw_app\" fq-name\u003d\"laravel_db.vw_app\" order\u003d\"17\" x\u003d\"1000\" y\u003d\"1560\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"19\" name\u003d\"vw_app_all\" fq-name\u003d\"laravel_db.vw_app_all\" order\u003d\"18\" x\u003d\"1300\" y\u003d\"1360\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"20\" name\u003d\"vw_mw_user_role_menu\" fq-name\u003d\"laravel_db.vw_mw_user_role_menu\" order\u003d\"19\" x\u003d\"-20\" y\u003d\"740\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"21\" name\u003d\"vw_total_submit_today\" fq-name\u003d\"laravel_db.vw_total_submit_today\" order\u003d\"20\" x\u003d\"680\" y\u003d\"1200\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"22\" name\u003d\"vw_user\" fq-name\u003d\"laravel_db.vw_user\" order\u003d\"21\" x\u003d\"2220\" y\u003d\"1120\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003centity id\u003d\"23\" name\u003d\"vw_user_role_menu\" fq-name\u003d\"laravel_db.vw_user_role_menu\" order\u003d\"22\" x\u003d\"680\" y\u003d\"1580\"\u003e\u003cpath name\u003d\"laravel_db\"/\u003e\u003c/entity\u003e\u003c/data-source\u003e\u003c/entities\u003e\u003crelations\u003e\u003crelation name\u003d\"vfk_users_tbl_m_customers\" type\u003d\"vfk\" pk-ref\u003d\"6\" fk-ref\u003d\"16\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_menus_tbl_t_role_menu\" type\u003d\"vfk\" pk-ref\u003d\"8\" fk-ref\u003d\"15\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_products_tbl_t_app\" type\u003d\"vfk\" pk-ref\u003d\"9\" fk-ref\u003d\"13\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_roles_users\" type\u003d\"vfk\" pk-ref\u003d\"10\" fk-ref\u003d\"16\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_roles_tbl_t_role_menu\" type\u003d\"vfk\" pk-ref\u003d\"10\" fk-ref\u003d\"15\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_status_progress_tbl_t_app\" type\u003d\"vfk\" pk-ref\u003d\"11\" fk-ref\u003d\"13\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_type_id_tbl_m_customers\" type\u003d\"vfk\" pk-ref\u003d\"12\" fk-ref\u003d\"6\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_customers_tbl_t_app\" type\u003d\"vfk\" pk-ref\u003d\"13\" fk-ref\u003d\"6\"/\u003e\u003crelation name\u003d\"vfk_tbl_m_installation_person_tbl_t_app\" type\u003d\"vfk\" pk-ref\u003d\"13\" fk-ref\u003d\"7\"/\u003e\u003c/relations\u003e\u003c/diagram\u003e"}},":tbl_m_customers":{"constraints":{"tbl_m_customers_VK":{"type":"vpk","attributes":["email"]}},"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_t_app","constraint":"tbl_t_app_VK","attributes":{"id":"cust_id"}}]},":tbl_t_app":{"constraints":{"tbl_t_app_VK":{"type":"vpk","attributes":["progress_id"]}}},":tbl_m_installation_person":{"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_t_app","constraint":"tbl_t_app_VK","attributes":{"id":"installation_person_id"}}]},":debug":{"constraints":{"VIRTUAL_PK":{"type":"vpk","useAllColumns":true}}},":tbl_m_products":{"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_t_app","constraint":"tbl_t_app_VK","attributes":{"id":"product_id"}}]},":tbl_m_roles":{"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/users","constraint":"users_VK","attributes":{"id":"role_id"}},{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_t_role_menu","constraint":"tbl_t_role_menu_VK","attributes":{"id":"role_id"}}]},":users":{"constraints":{"users_VK":{"type":"vpk","attributes":["role_id"]}},"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_m_customers","constraint":"tbl_m_customers_VK","attributes":{"email":"email"}}]},":tbl_t_role_menu":{"constraints":{"tbl_t_role_menu_VK":{"type":"vpk","attributes":["menu_id"]}}},":tbl_m_menus":{"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_t_role_menu","constraint":"tbl_t_role_menu_VK","attributes":{"id":"menu_id"}}]},":tbl_m_type_id":{"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_m_customers","constraint":"tbl_m_customers_VK","attributes":{"id":"mr_id_type"}}]},":tbl_m_status_progress":{"foreign-keys":[{"entity":"database://mysql8-18b122ba1d1-7433985010a8232f/org.jkiss.dbeaver.ext.mysql.model.MySQLCatalog/laravel_db/org.jkiss.dbeaver.ext.mysql.model.MySQLTable/tbl_t_app","constraint":"tbl_t_app_VK","attributes":{"id":"progress_id"}}]}}},"microsoft-18bef706abf-7be84eb51df43ffa":{"WISE_STAGING":{"dbo":{":T_MKT_POLO_ORDER_IN_X":{"constraints":{"VIRTUAL_PK":{"type":"vpk","useAllColumns":true}}}}}},"microsoft-18bef711b02-3d4bedd6d02139d8":{"WISE_STAGING":{"dbo":{":T_MKT_POLO_ELIGIBLE":{"constraints":{"VIRTUAL_PK":{"type":"vpk","useAllColumns":true}}},":T_MKT_POLO_ORDER_IN":{"description":"BPKB_NAME","constraints":{"VIRTUAL_PK":{"type":"vpk","useAllColumns":true}}},":T_MKT_POLO_ORDER_IN_X":{"constraints":{"VIRTUAL_PK":{"type":"vpk","useAllColumns":true}}},":T_MKT_MARKETPLACE_ACQ":{"constraints":{"VIRTUAL_PK":{"type":"vpk","attributes":["ACQ_ID","PARTNER_ID","ORDER_ID"]}}}}}},"mysql8-18cb9ec4e1f-48359f46fb6ee90e":{"db_wom":{":cc_ts_penawaran":{"constraints":{"VIRTUAL_PK":{"type":"vpk","useAllColumns":true}}}}}},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": false,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}
